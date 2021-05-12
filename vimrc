@@ -6,6 +6,7 @@ set autoindent
 set shiftwidth=4
 set list
 set listchars=tab:\|.,trail:.
+set showcmd
 
 " Use C-n for toggling the tree
 " nnoremap <silent> <C-n> :NERDTreeToggle<CR>
